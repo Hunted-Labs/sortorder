@@ -1,3 +1,3 @@
-module github.com/fvbommel/sortorder
+module github.com/Hunted-Labs/sortorder
 
 go 1.13

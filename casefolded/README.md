@@ -1,6 +1,6 @@
-# casefolded [![PkgGoDev](https://pkg.go.dev/badge/github.com/fvbommel/sortorder/casefolded)](https://pkg.go.dev/github.com/fvbommel/sortorder/casefolded)
+# casefolded [![PkgGoDev](https://pkg.go.dev/badge/github.com/Hunted-Labs/sortorder/casefolded)](https://pkg.go.dev/github.com/Hunted-Labs/sortorder/casefolded)
 
-    import "github.com/fvbommel/sortorder/casefolded"
+    import "github.com/Hunted-Labs/sortorder/casefolded"
 
 Case-folded sort orders and comparison functions.
 

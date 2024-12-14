@@ -1,6 +1,6 @@
-# sortorder [![PkgGoDev](https://pkg.go.dev/badge/github.com/fvbommel/sortorder)](https://pkg.go.dev/github.com/fvbommel/sortorder)
+# sortorder [![PkgGoDev](https://pkg.go.dev/badge/github.com/Hunted-Labs/sortorder)](https://pkg.go.dev/github.com/Hunted-Labs/sortorder)
 
-    import "github.com/fvbommel/sortorder"
+    import "github.com/Hunted-Labs/sortorder"
 
 Sort orders and comparison functions.
 
